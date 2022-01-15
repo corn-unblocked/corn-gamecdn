@@ -1,3 +1,6 @@
 [submodule "public/cookie"]
 	path = public/cookie
 	url = https://github.com/corn-unblocked/Cookie-Clicker-Source-Code
+[submodule "public/minecraft"]
+	path = public/minecraft
+	url = https://github.com/corn-unblocked/webmc-build
