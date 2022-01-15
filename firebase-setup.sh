@@ -5,11 +5,13 @@
 submodules="cookie"
 
 # root module
+firebase use
 firebase target:apply hosting hotcorn-gamecdn $1
 
 # submodules
 for submodule in $submodules; do
 	cd $submodule
+	firebase use
 	firebase target:apply hosting hotcorn-gamecdn $1
 	cd ..
 done
