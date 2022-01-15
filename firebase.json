@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "hotcorn-gamecdn",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
