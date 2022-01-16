@@ -4,3 +4,6 @@
 [submodule "public/minecraft"]
 	path = public/minecraft
 	url = https://github.com/corn-unblocked/webmc-build
+[submodule "public/tanuki"]
+	path = public/tanuki
+	url = https://github.com/corn-unblocked/Tanuki-Sunset
